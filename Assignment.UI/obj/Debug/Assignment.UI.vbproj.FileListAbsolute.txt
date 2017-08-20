@@ -1,0 +1,39 @@
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.UI.exe.config
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.UI.exe
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.UI.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.UI.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.vbprojResolveAssemblyReference.cache
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.MDIParent1.resources
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.Resources.resources
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.vbproj.GenerateResource.Cache
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.exe
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Business.dll
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Data.dll
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Business.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Business.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Data.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Assignment.Data.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\obj\Debug\Assignment.UI.frmSearch.resources
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.UI\bin\Debug\Data\Data.txt
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.UI.exe.config
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.exe
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.xml
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.pdb
+G:\Assignment\Assignment.UI\bin\Debug\Data\Data.txt
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.UI.exe
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.UI.pdb
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.UI.xml
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Business.dll
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Data.dll
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Business.pdb
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Business.xml
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Data.pdb
+G:\Assignment\Assignment.UI\bin\Debug\Assignment.Data.xml
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.vbprojResolveAssemblyReference.cache
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.frmSearch.resources
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.MDIParent1.resources
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.Resources.resources
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.vbproj.GenerateResource.Cache
+G:\Assignment\Assignment.UI\obj\Debug\Assignment.UI.MainForm.resources

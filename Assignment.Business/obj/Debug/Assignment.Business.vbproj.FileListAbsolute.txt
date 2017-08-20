@@ -1,0 +1,24 @@
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Business.dll
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Business.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Business.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Data.dll
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Data.pdb
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\bin\Debug\Assignment.Data.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.vbprojResolveAssemblyReference.cache
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.Resources.resources
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.vbproj.GenerateResource.Cache
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.dll
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.xml
+C:\Users\dumis\Documents\Visual Studio 2017\Projects\Assignment\Assignment.Business\obj\Debug\Assignment.Business.pdb
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Business.dll
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Business.pdb
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Business.xml
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Data.dll
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Data.pdb
+G:\Assignment\Assignment.Business\bin\Debug\Assignment.Data.xml
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.vbprojResolveAssemblyReference.cache
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.Resources.resources
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.vbproj.GenerateResource.Cache
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.dll
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.xml
+G:\Assignment\Assignment.Business\obj\Debug\Assignment.Business.pdb
